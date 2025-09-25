@@ -102,7 +102,7 @@ Auteur
 Projet réalisé seul à des fins pédagogiques (Cours 3).  
 Paix à tous
 
-````// filepath: c:\Users\Dev_Note\Desktop\Dev-Student\M2\Golang\Cours 1\exemple\Cours 3\TP 3 Perso\README.md
+
 # TP3 Perso — Pipeline Concurrent & JSON (Go)
 
 Contexte et objectif
