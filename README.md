@@ -117,9 +117,6 @@ Structure (fichiers principaux)
 
 Comment utiliser (PowerShell - Windows)
 - Se placer dans le dossier du projet :
-```powershell
-cd "C:\Users\Dev_Note\Desktop\Dev-Student\M2\Golang\Cours 1\exemple\Cours 3\TP 3 Perso"
-````
 
 - Exécuter le pipeline (génère et sauvegarde `events.json`) :
 
